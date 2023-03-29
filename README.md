@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriharika13
-- 👀 I’m interested in Data Science, Machine learning, Cloud Computing, Web Developement
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Web Developement, Data Science, Machine learning, Cloud ComputingWeb Developement, 
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me: sriharikamariyala@gmail.com
 
