@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriharika13
 - 🚀 Software Development Engineer with a focus on building scalable, backend solutions.
-- 💡 Skilled in Java and Python with hands-on experience in data structures and algorithms.
+- 💡 Skilled in Java and React with hands-on experience in data structures and algorithms.
 - 🎨 Passionate about turning designs into clean, efficient code that enhances user experience.
 - 🛠️ Experienced in optimizing multi-document processing and streamlining authentication workflows.
 - 🧩 Love creating prototypes and proofs-of-concept to bring ideas to life and drive product improvement.
